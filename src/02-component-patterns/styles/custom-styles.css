@@ -18,3 +18,8 @@
     color: white;
     border-color: white;
 }
+.shopping-cart {
+    right: 10px;
+    position: fixed;
+    top: 0;
+}
